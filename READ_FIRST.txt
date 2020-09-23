@@ -1,0 +1,5 @@
+Please rename GETCPU.DL_ to GetCPU.DLL
+
+Thanks 
+Marshall
+http://www.gamesoft.vze.com
